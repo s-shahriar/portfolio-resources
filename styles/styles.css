@@ -26,6 +26,7 @@ header {
   color: #181818;
   font-size: 45px;
   font-weight: 800;
+  margin-top: 50px;
 }
 
 .intro > p > span {
@@ -36,6 +37,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  margin-top: 50px;
 }
 
 .intro-nav > ul > li {
@@ -75,12 +77,14 @@ header {
   color: #181818;
   font-size: 60px;
   font-weight: 700;
+  margin-bottom: 10px;
 }
 
 .head-text > p {
   color: #757575;
   font-size: 18px;
   font-weight: 400;
+  margin-bottom: 10px;
 }
 
 .head-text > button {
@@ -106,6 +110,7 @@ header {
 
 .about-up > h3 {
   font-size: 35px;
+  margin-bottom: 20px;
 }
 
 .about-up > p {
